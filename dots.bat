@@ -1,1 +1,2 @@
 echo DOTS_BATCH
+PAUSE
